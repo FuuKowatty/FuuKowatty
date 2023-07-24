@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+office&weight=800&size=36&pause=1000&color=15A6F7&center=true&vCenter=true&width=500&lines=Heey!+I'm+Bartosz+Mech+%3C3;Welcome+to+my+profile!!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker+&weight=800&size=36&pause=1000&color=15A6F7&width=500&lines=Heey!+I'm+Bartosz+Mech+%3C3;Welcome+to+my+profile!!" alt="Title"></img>
 </div>
 
 
