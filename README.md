@@ -34,6 +34,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230075FF.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%230075FF.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 
