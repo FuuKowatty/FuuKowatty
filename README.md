@@ -9,7 +9,7 @@
 
 - :credit_card: My full name is **Bartosz Mech** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm IT Technician and now trying my best in programming
-- :books: My major is **Front-End**
+- :books: My major is **Web-Development**
 - :earth_asia: I'm living now in **Łochów City, Poland**
 - :sweat_smile: Huge fan of clean code
 - :monocle_face: I'm interested in coding, esport and sleeping
