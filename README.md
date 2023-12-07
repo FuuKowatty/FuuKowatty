@@ -8,11 +8,11 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - :credit_card: My full name is **Bartosz Mech** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm IT Technician and now trying my best in programming
+- :school: I am trying my best in programming
 - :books: My major is **Web-Development**
 - :earth_asia: I'm living now in **Łochów City, Poland**
 - :sweat_smile: Huge fan of clean code
-- :monocle_face: I'm interested in coding, esport and sleeping
+- :monocle_face: I'm interested in coding, chess and animations
 - :sunglasses: My quote is ***"The future belongs to those who believe in the beauty of their dreams."*** - Eleanor Roosevelt 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
