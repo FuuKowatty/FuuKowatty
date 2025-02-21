@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=48&pause=1000&color=15A6F7&width=750&height=100&lines=Heey!+I'm+Bartosz+Mech+%3C3;Welcome+to+my+profile!!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Handlee&size=48&pause=1000&color=15A6F7&width=750&height=100&lines=Heey!+I'm+FuuKowatty+%3C3;Welcome+to+my+profile!!" alt="Title"></img>
 </div>
 
 
@@ -10,7 +10,6 @@
 - :credit_card: My full name is **Bartosz Mech** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I am trying my best in programming
 - :books: My major is **Web-Development**
-- :earth_asia: I'm living now in **Łochów City, Poland**
 - :sweat_smile: Huge fan of clean code
 - :monocle_face: I'm interested in coding, chess and animations
 - :sunglasses: My quote is ***"The future belongs to those who believe in the beauty of their dreams."*** - Eleanor Roosevelt 
